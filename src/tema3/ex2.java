@@ -8,6 +8,7 @@ public class ex2 {
        if(vanzari > 2500){
            comision = vanzari * 5/100;
        }
+       else comision = 0;
        System.out.println("Comisionul tau este: " + comision);
     }
 }
