@@ -1,4 +1,4 @@
-package tema7;
+package tema6;
 
 public class Teacher {
     private String Course;

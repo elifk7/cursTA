@@ -1,4 +1,4 @@
-package tema7;
+package tema6;
 
 public class Qualification extends Teacher{
     public Qualification(String curs, int experienta, String program) {

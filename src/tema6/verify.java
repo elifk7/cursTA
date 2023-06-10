@@ -1,4 +1,4 @@
-package tema7;
+package tema6;
 
 import java.util.Scanner;
 
